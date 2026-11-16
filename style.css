@@ -260,3 +260,7 @@ html.js .rev.on{opacity:1;transform:none}
   .band-track{animation:none}
   .scroll-cue i::after{animation:none}
 }
+
+.contact .intent{margin:0 0 18px;font-size:14px;letter-spacing:.02em;color:var(--ink-dim)}
+.contact .intent b{color:var(--ink);font-weight:500}
+.contact .tel{margin:14px 0 0;font-size:13px;letter-spacing:.06em;color:var(--muted)}
